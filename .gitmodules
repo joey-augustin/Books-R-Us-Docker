@@ -1,0 +1,6 @@
+[submodule "book-service"]
+	path = book-service
+	url = https://github.com/joey-augustin/Book.Service.Frontend.git
+[submodule "joeySimpleBookService"]
+	path = joeySimpleBookService
+	url = https://github.com/joey-augustin/Rest-API_Simple-Book-Service.git
